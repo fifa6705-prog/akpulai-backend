@@ -1,0 +1,19 @@
+# 환경변수 / 시크릿
+.env
+.env.local
+.env.production
+*.key
+secrets.txt
+passwords.txt
+api_keys.txt
+
+# KeePass 데이터베이스
+*.kdbx
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
